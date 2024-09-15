@@ -3,8 +3,8 @@ Create a Flask app which displays inferenced frames from YOLO read from the webc
 
 ## Clone the repo
 ```bash
-git clone https://github.com/wasaybaig/PX4andQGC-Engine-Control-Unit.git
-```
+[git clone https://github.com/wasaybaig/PX4andQGC-Engine-Control-Unit.git
+](https://github.com/wasaybaig/Flask-with-YOLO.git)```
 
 ## Install Python Packages
 ```bash
